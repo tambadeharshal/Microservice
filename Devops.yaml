@@ -1,0 +1,15 @@
+iproject:
+  name: DevOps Practice
+  environment: development
+
+tools:
+  source_control: Git
+  ci_cd: Azure DevOps
+  container: Docker
+  orchestration: Kubernetes
+  infrastructure: Terraform
+
+developer:
+  name: Harshal
+  experience: 9
+
